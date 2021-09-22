@@ -1,0 +1,9 @@
+{
+	"name": "bin-converter",
+	"version": "1.0.0",
+	"description": "A converter that can parse binary to text, and text to binary!",
+	"license": "MIT",
+	"contributors": ["itsamedood"],
+	"releasenote": "Initial release.",
+	"classPath": "./bin"
+}
